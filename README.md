@@ -65,12 +65,12 @@ You may also open the `main.c` file in your preferred IDE (like Code::Blocks or 
 
 ---
 
-## 🙋 Author
-
-**Ahmed Hossam Eldin Adly Abdelfattah**
-
----
-
 ## 📄 License
 
 This project is open-source and free to use for learning and personal projects.
+
+---
+
+## 🙋 Author
+
+**Ahmed Hossam Eldin Adly Abdelfattah**
