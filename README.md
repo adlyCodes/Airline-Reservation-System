@@ -1,6 +1,6 @@
 # 🎟️ Airline Reservation System (C Language)
 
-This is a simple **Airline Reservation System** written in **C**, designed to simulate managing seats, storing data, and handling ticket reservations using file operations.
+Using C programming language, Airline Reservation System is an application that shows all the airline schedules. The system enables the user to schedule a trip according to specific timings and according to available seats. The user can access and modify/delete their reservation through their account.
 
 ---
 
